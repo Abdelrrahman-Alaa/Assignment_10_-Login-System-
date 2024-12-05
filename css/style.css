@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #0dcaf0;
+}
+
+.primary-color {
+  color: var(--primary-color);
+}
+
